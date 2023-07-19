@@ -1,0 +1,6 @@
+com\ucd\msg\lms\book\catalogue\dto\BookDto$BookDtoBuilder.class
+com\ucd\msg\lms\book\catalogue\entity\Book.class
+com\ucd\msg\lms\book\catalogue\service\AddBookService.class
+com\ucd\msg\lms\book\catalogue\Application.class
+com\ucd\msg\lms\book\catalogue\configuration\MainConfig.class
+com\ucd\msg\lms\book\catalogue\dto\BookDto.class
